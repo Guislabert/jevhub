@@ -112,10 +112,15 @@ Raise an issue for a missing project, a broken link, or a category suggestion.
 [vlg]: CHANGELOG.md
 [osi]: https://opensource.org/licenses/MIT
 
+## Acknowledgements
+
+- **Layout**: catalog concept drawn from [whatships.com](https://whatships.com/) adapted to the Jev ecosystem.
+- **Header/layout**: [readme-harness](https://github.com/Guislabert/readme-harness) v0.1.0 (@`8c65495`).
+
 ## License
 
 MIT © Guislabert — see [LICENSE](LICENSE).
 
 ---
 
-[Rendered via Readme Harness **v0.1.0** (commit `8c65495`, 2026-10-25); see docs/readme-harness.md for the layout baseline.](https://github.com/Guislabert/readme-harness)
+_Layout: [readme-harness](https://github.com/Guislabert/readme-harness) v0.1.0 @`8c65495` · baseline: [docs/readme-harness.md](docs/readme-harness.md)_
