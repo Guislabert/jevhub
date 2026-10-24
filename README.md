@@ -123,4 +123,4 @@ MIT © Guislabert — see [LICENSE](LICENSE).
 
 ---
 
-_Layout: [readme-harness](https://github.com/Guislabert/readme-harness) v0.1.0 @`8c65495` · baseline: [docs/readme-harness.md](docs/readme-harness.md)_
+Layout: readme-harness v0.1.0 @`8c65495` · baseline: docs/readme-harness.md
