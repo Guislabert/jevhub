@@ -115,3 +115,7 @@ Raise an issue for a missing project, a broken link, or a category suggestion.
 ## License
 
 MIT © Guislabert — see [LICENSE](LICENSE).
+
+---
+
+[Rendered via Readme Harness **v0.1.0** (commit `8c65495`, 2026-10-25); see docs/readme-harness.md for the layout baseline.](https://github.com/Guislabert/readme-harness)
