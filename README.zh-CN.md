@@ -114,3 +114,5 @@ npm run build     # → dist/（静态页面，约 1s 构建）
 ## 许可证
 
 MIT © Guislabert —— 见 [LICENSE](LICENSE)。
+
+Layout: readme-harness v0.1.0 @`8c65495` · baseline: docs/readme-harness.md
